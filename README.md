@@ -6,3 +6,16 @@ Inverse distance weighting is a type of deterministic method for multivariate in
 
 ## Why we need interpolation?
 > Visiting every location in a study area to measure the height, magnitude, or concentration of a phenomenon is usually difficult or expensive. Instead, dispersed sample input point locations can be selected and a predicted value can be assigned to all other locations. Input points can be either randomly, strategically, or regularly spaced points containing height, concentration, or magnitude measurements.
+
+## Formula?
+![IDW Formula](Images/IDW.PNG)
+> Here, `d` is distance between the points
+        `p` is the power
+## Power = 1
+![Interpolation with Power=1](Images/img_200X200_P1.png)
+## Power = 2
+![Interpolation with Power=2](Images/img_200X200_P2.png)
+## Power = 3
+![Interpolation with Power=3](Images/img_200X200_P3.png)
+## Power = 4
+![Interpolation with Power=4](Images/img_200X200_P4.png)
