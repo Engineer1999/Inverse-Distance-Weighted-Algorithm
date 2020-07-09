@@ -9,8 +9,7 @@ Inverse distance weighting is a type of deterministic method for multivariate in
 
 ## Formula?
 ![IDW Formula](Images/IDW.PNG)
-> Here, `d` is distance between the points
-        `p` is the power
+> Here, `d` is distance between the points and `p` is the power.
 ## Power = 1
 ![Interpolation with Power=1](Images/img_200X200_P1.png)
 ## Power = 2
